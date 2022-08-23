@@ -1,4 +1,4 @@
-# Project 7 [live link](https://my-project-7.netlify.app/)
+# Project 7 [live link](https://project-7-headphone-products.netlify.app/)
 
 ## skills gained from this project
     - I used display flex to align elements horizontally
